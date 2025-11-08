@@ -1,0 +1,32 @@
+# MCP Agent Requirements - AIMultiple Assessment
+# ===============================================
+# 
+# Core dependencies for MCP Agent with Firecrawl integration
+# and multi-model benchmarking capabilities
+
+# Environment and configuration management
+python-dotenv==1.0.1
+
+# LangChain framework for agentic AI architecture
+langchain==0.3.27
+langchain-openai==0.3.33
+langchain-community==0.3.29
+langchain-core==0.3.76
+
+# OpenAI API client (used with OpenRouter)
+openai==1.108.0
+
+# Firecrawl MCP integration for web scraping
+firecrawl-py==4.3.6
+
+# Data processing and validation
+pydantic==2.11.9
+requests==2.32.5
+
+# Optional: Enhanced data processing capabilities
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Development and testing (optional)
+# pytest==7.4.0
+# python-dotenv[dev]==1.0.1
