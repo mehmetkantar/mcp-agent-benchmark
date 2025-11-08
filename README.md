@@ -78,7 +78,7 @@ Following the assessment requirements, the agent implements both suggested bench
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/mcp-agent-benchmark.git
+git clone https://github.com/mehmetkantar/mcp-agent-benchmark
 cd mcp-agent-benchmark
 
 # 2. Install dependencies
